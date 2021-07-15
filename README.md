@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Starter Kit for [Building Applications in React and Redux](http://www.pluralsight.com/author/cory-house) on Pluralsight
 
 ## Get Started
@@ -68,3 +69,6 @@
 | webpack-bundle-analyzer         | Generate report of what's in the app's production bundle         |
 | webpack-cli                     | Run Webpack via the command line                                 |
 | webpack-dev-server              | Serve app via Webpack                                            |
+=======
+Project that implements redux in a react application. This is a CRUD application that fetches an api to display online courses. Allows the user to create, update, or delete courses. Makes use of functional components and hooks (useState, useEffect) react router, and redux for state management.
+>>>>>>> d8db9f1b095b44822a03bf4d5c9674b620ac8b4d
