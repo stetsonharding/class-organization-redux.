@@ -1,1 +1,1 @@
-Tutorial on react redux. Calls an api to get class information from plurlsight. Allows the user to create, update, or delete course information. Implements react router, redux, thunks, hooks, form validation, error handling for all api calls. My main intention for this course was to get a good insight on redux fundementals, and implimenting redux into an application.
+
